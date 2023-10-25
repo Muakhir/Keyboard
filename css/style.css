@@ -49,3 +49,11 @@ button:active{
     width: 150px;
     border-radius: 10px;
 }
+.space{
+    width: 500px;
+    border-radius: 10px;
+}
+.other{
+    width: 65px;
+    border-radius: 10px;
+}
